@@ -2,7 +2,7 @@ require 'json'
 require 'csv'
 
 module ClubhouseRuby
-  API_URL = "https://api.clubhouse.io/api/v1/".freeze
+  API_URL = "https://api.clubhouse.io/api/v2/".freeze
 
   # Response formats the clubhouse api knows about
   FORMATS = {
