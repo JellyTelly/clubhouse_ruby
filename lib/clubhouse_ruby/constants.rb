@@ -36,7 +36,7 @@ module ClubhouseRuby
     :stories,
     :tasks,
     :comments,
-    :users,
+    :members,
     :workflows
   ].freeze
 
